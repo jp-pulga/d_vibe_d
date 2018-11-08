@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+d_libhttp.so
+d_libhttp.dylib
+d_libhttp.dll
+d_libhttp.a
+d_libhttp.lib
+d_libhttp-test-*
+*.exe
+*.o
+*.obj
+*.lst
+bin/

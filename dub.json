@@ -1,0 +1,18 @@
+{
+	"description": "Vibe-d test",
+	"dependencies": {
+		"vibe-d": "~>0.8.4",
+		"vibe-d:tls": "~>0.8.4"
+	},
+	"subConfigurations": {
+		"vibe-d:tls": "openssl-1.1"
+	},
+	"authors": [
+		"João Paulo"
+	],
+	"copyright": "Copyright © 2018, João Paulo",
+	"license": "public domain",
+	"name": "d_vibe_d",
+	"targetPath": "bin",
+	"dflags-ldc": ["-O4"]
+}
